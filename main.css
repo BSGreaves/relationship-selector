@@ -47,6 +47,6 @@ a.disabled, a .disabled {
 	color: gold;
 }
 
-input[type="text"] {
+input {
 	height: 25px;
 }
